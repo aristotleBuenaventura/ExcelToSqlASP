@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aris2\\Desktop\\IOT_EXCEL_TO_SQL_ASP_VERSION - Mapping Working\\exceltosql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{692C7861-C08F-4D02-8EF0-4D4C769D600D}|exceltosql\\exceltosql.csproj|c:\\users\\aris2\\desktop\\iot_excel_to_sql_asp_version - mapping working\\exceltosql\\exceltosql\\exceltosql.aspx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{692C7861-C08F-4D02-8EF0-4D4C769D600D}|exceltosql\\exceltosql.csproj|solutionrelative:exceltosql\\exceltosql.aspx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExcelToSQL.aspx",
+              "DocumentMoniker": "C:\\Users\\aris2\\Desktop\\IOT_EXCEL_TO_SQL_ASP_VERSION - Mapping Working\\exceltosql\\exceltosql\\ExcelToSQL.aspx",
+              "RelativeDocumentMoniker": "exceltosql\\ExcelToSQL.aspx",
+              "ToolTip": "C:\\Users\\aris2\\Desktop\\IOT_EXCEL_TO_SQL_ASP_VERSION - Mapping Working\\exceltosql\\exceltosql\\ExcelToSQL.aspx",
+              "RelativeToolTip": "exceltosql\\ExcelToSQL.aspx",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAEoAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-02T07:49:02.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
